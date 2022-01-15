@@ -43,3 +43,18 @@ Started on the Hero section of the site by adding a primary heading, a descripti
 - Added background color
 - Added transition (FIRST TIME DOING THAT) to both full and outline
 - Gave helper class to full btn so spacing will be easy in the future
+
+### Push 2
+
+#### Altered
+
+- took last sentence from description to add create blurb beside gallery
+
+#### img gallery
+
+- added img gallery
+- added overlap to images using -margin
+- added border for separation
+- added blurb
+  - changed color of 250,000
+  - this color on the background aligns with WCAG standards
