@@ -26,17 +26,20 @@ Started on the Hero section of the site by adding a primary heading, a descripti
 
 ### push 1
 
-Hero section
+#### Hero section
 
-- primary heading
-  -- styled font
-  -- added line height
+##### primary heading
 
-- hero description
-  -- styled font
-  -- added padding
+- Styled font
+- Added line height
 
-Btns
--- added background color
--- added transition (FIRST TIME DOING THAT) to both full and outline
--- gave helper class to full btn so spacing will be easy in the future
+##### hero description
+
+- Styled font
+- Added padding
+
+##### Btns
+
+- Added background color
+- Added transition (FIRST TIME DOING THAT) to both full and outline
+- Gave helper class to full btn so spacing will be easy in the future
