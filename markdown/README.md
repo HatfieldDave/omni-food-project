@@ -21,3 +21,20 @@ After this initial outline it would be a good idea to sketch out the website to 
 Set up initial HTML and beginning css. Added a typography section to the top of the css file, the goal is for the sections inside to grow as I style so I can keep the sites design continuity.
 
 Started on the Hero section of the site by adding a primary heading, a description, two btns (start eating well and learn more), and the hero imgs. began the initial styling of the hero using css grid.
+
+## 1/15/22
+
+Hero section
+
+- primary heading
+  -- styled font
+  -- added line height
+
+- hero description
+  -- styled font
+  -- added padding
+
+Btns
+-- added background color
+-- added transition (FIRST TIME DOING THAT) to both full and outline
+-- gave helper class to full btn so spacing will be easy in the future
