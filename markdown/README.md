@@ -58,3 +58,23 @@ Started on the Hero section of the site by adding a primary heading, a descripti
 - added blurb
   - changed color of 250,000
   - this color on the background aligns with WCAG standards
+
+## Push 3
+
+#### Clean Up
+
+- Cleaned up the css by adding some sections using comments
+  - General Reusable Components
+  - Header
+  - Hero Section
+
+#### Header
+
+- Created Header Element
+- Added OmniFood Logo
+  - styled logo
+- Added Navigation
+
+#### HTML
+
+- Wrapped everything but the header in the <main> element.
