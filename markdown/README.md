@@ -59,7 +59,7 @@ Started on the Hero section of the site by adding a primary heading, a descripti
   - changed color of 250,000
   - this color on the background aligns with WCAG standards
 
-## Push 3
+### Push 3
 
 #### Clean Up
 
@@ -78,3 +78,18 @@ Started on the Hero section of the site by adding a primary heading, a descripti
 #### HTML
 
 - Wrapped everything but the header in the <main> element.
+
+### Push 4
+
+#### HTML
+
+- Added main-nav-list
+
+### CSS
+
+- added navigation section
+
+#### Navigation
+
+- style the seperate link
+- styled the last link to look similar to the btn---full
