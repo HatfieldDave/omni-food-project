@@ -114,3 +114,15 @@ Started on the Hero section of the site by adding a primary heading, a descripti
 - Added iPhone imgs
   - added circles behind imgs using z-index
 - Used the reusable grid to build HOW IT WORKS section
+
+### push 7
+
+#### HTML
+
+- Added featured in section
+  - Added logos
+
+#### CSS
+
+- Styled logos
+  - Used filter and opacity for the first time to grey wash the logos and give them some continuity, at the same time not allowing them become a huge focal point.
