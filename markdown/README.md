@@ -100,7 +100,17 @@ Started on the Hero section of the site by adding a primary heading, a descripti
 
 - Built section how with place holders
 
-### CSS
+#### CSS
 
 - Built a reusable grid
   - Added it under general reusable
+
+### Push 6
+
+#### CSS
+
+- Split CSS into 2 files for cleanliness
+  - General and style
+- Added iPhone imgs
+  - added circles behind imgs using z-index
+- Used the reusable grid to build HOW IT WORKS section
