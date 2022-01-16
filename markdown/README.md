@@ -87,9 +87,20 @@ Started on the Hero section of the site by adding a primary heading, a descripti
 
 ### CSS
 
-- added navigation section
+- Added navigation section
 
 #### Navigation
 
-- style the seperate link
-- styled the last link to look similar to the btn---full
+- Styled the septate link
+- Styled the last link to look similar to the btn---full
+
+### push 5
+
+#### HTML
+
+- Built section how with place holders
+
+### CSS
+
+- Built a reusable grid
+  - Added it under general reusable
