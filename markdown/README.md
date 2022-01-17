@@ -126,3 +126,19 @@ Started on the Hero section of the site by adding a primary heading, a descripti
 
 - Styled logos
   - Used filter and opacity for the first time to grey wash the logos and give them some continuity, at the same time not allowing them become a huge focal point.
+
+## 1/16/22
+
+### Push 8
+
+#### HTML
+
+- Added a meals section
+  - Used ul to add some meal attributes
+- Added ionicons to get pull some clean icons
+
+#### CSS
+
+- Styled icons to match the vibe of the site
+- Gave the cards a transform and transition to make them bounce when hovered
+- adjusted shadow cards during hover to add a mor natural transition.
