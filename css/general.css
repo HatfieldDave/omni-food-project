@@ -147,7 +147,8 @@ body {
 }
 
 .btn:link,
-.btn:visited {
+.btn:visited,
+.btn {
   display: inline-block;
   text-decoration: none;
   font-size: 2rem;
@@ -155,6 +156,10 @@ body {
   padding: 1.6rem 3.2rem;
   border-radius: 9px;
   transition: all 0.3s;
+
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
 }
 
 .btn--full:link,
