@@ -488,6 +488,7 @@
 .cta-text {
   font-size: 1.8rem;
   line-height: 1.8;
+  margin: 4.8;
 }
 
 .cta .heading-secondary {
@@ -498,10 +499,16 @@
 .cta-img-box {
   background-image: linear-gradient(
       to right bottom,
-      rgba(235, 151, 78, 0.35),
-      rgba(230, 125, 34, 0.35)
+      rgba(235, 151, 78, 0.275),
+      rgba(230, 125, 34, 0.275)
     ),
     url("../img/eating.jpg");
   background-size: cover;
   background-position: center;
+}
+.cta-form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 3.2rem;
+  row-gap: 2.4rem;
 }
